@@ -1,15 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Jabber</title>
-</head>
-<body>
-    <nav><nav>
-    <head></head>
-    <main></main>
-    <footer></footer>
-</body>
-</html>
+<!-- Index Temple -->
+<?php get_header(); ?>
+<main>
+    <section>
+        <header>
+            <h2>
+                content for jabber
+            </h2>
+        </header>
+    </section>
+</main>
+<?php get_footer(); ?>
